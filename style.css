@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+   /*background-image: url(cool-tanjiro-fan-art-5zg53ndnowvurmr5.webp);
+   /* background-color: black;
+   */
+   
+
+   
+}
+
+body{
+  background: url(cool-tanjiro-fan-art-5zg53ndnowvurmr5.webp) no-repeat center/cover;
+  /* object-fit: cover; */
+  /* height: 100vh; */
+}
+
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    height: 180px;
+
+}
+.head img{
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+ }
+ .head a
+ {
+  
+    color: white;
+   text-decoration: none;
+   font-size: 15px;
+   padding: 20px;
+
+ }
+ .right{
+    margin-top: 10px;
+   margin-right: 10px;
+ }
+ .middle{
+
+   height: 280px;
+ }
+ .middle p{
+   color: white;
+    
+ }
+ .footer a{
+
+ color: black;
+ font-size: 20px;
+ margin-left: 150px;
+ background:rgb(255, 255, 255);
+ padding: 10px 50px;
+ text-decoration: none;
+
+
+
+
+ }
+ 
